@@ -1,0 +1,6 @@
+﻿  server.cpp
+C:\Users\Beste\source\repos\server\server\server.cpp(17,21): warning C4244: '=': conversion from 'SOCKET' to 'short', possible loss of data
+C:\Users\Beste\source\repos\server\server\server.cpp(64,22): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Beste\source\repos\server\server\server.cpp(92,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Beste\source\repos\server\server\server.cpp(36,24): warning C4101: 'server': unreferenced local variable
+C:\Users\Beste\source\repos\server\server\server.cpp(35,39): warning C4101: 'read_size': unreferenced local variable
